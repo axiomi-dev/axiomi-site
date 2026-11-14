@@ -1,0 +1,15 @@
+# nunca publique segredos, chaves ou arquivos de trabalho
+.env
+.env.*
+*.key
+*.pem
+.claude/
+*.psd
+*.zip
+Thumbs.db
+.DS_Store
+
+.vercel
+
+.vercel
+.env*

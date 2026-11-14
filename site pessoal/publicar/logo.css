@@ -1,0 +1,4 @@
+/* Logo AXIOMI: branca, fundo transparente */
+:root { --logo: url("img/axiomi-logo.png"); }
+.logo-img { display: block; aspect-ratio: 1345 / 330; background: #fff;
+  -webkit-mask: var(--logo) center / contain no-repeat; mask: var(--logo) center / contain no-repeat; transition: background .35s, transform .35s; }
